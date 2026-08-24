@@ -1,16 +1,27 @@
 # CalendarPlanner
 
-CalendarPlannerExample
+CalendarPlannerExample This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive. It is published for catalogue/reference; authorship stays with the original authors noted below.
 
-**Target:** v3.5
-## Contents
+**Language:** C#  
+**Target:** v3.5  
+**Output:** Library, WinExe
 
-- `CalendarPlannerExample.sln`
-- `Backup/CalendarPlannerExample.sln`
-- `WeekPlanner/WeekPlanner.csproj`
-- `Backup/WeekPlanner/WeekPlanner.csproj`
-- `Backup/CalendarPlannerExample/CalendarPlannerExample.csproj`
-- `CalendarPlannerExample/CalendarPlannerExample.csproj`
+## What it is
+
+CalendarPlannerExample This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive. It is published for catalogue/reference; authorship stays with the original authors noted below.
+
+## Solution structure
+
+| Project | Language | Path |
+|---------|----------|------|
+| `WeekPlanner` | C# | `WeekPlanner/WeekPlanner.csproj` |
+| `WeekPlanner` | C# | `Backup/WeekPlanner/WeekPlanner.csproj` |
+| `CalendarPlannerExample` | C# | `Backup/CalendarPlannerExample/CalendarPlannerExample.csproj` |
+| `CalendarPlannerExample` | C# | `CalendarPlannerExample/CalendarPlannerExample.csproj` |
+
+## How to open
+
+Open `CalendarPlannerExample.sln` in Visual Studio.
 
 ## Attribution and provenance
 
