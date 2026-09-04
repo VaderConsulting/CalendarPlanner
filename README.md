@@ -24,6 +24,10 @@ CalendarPlannerExample This tree is a working copy of third-party source kept in
 
 Open `CalendarPlannerExample.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008 to 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Axon Cable SIA, Microsoft
